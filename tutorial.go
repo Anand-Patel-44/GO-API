@@ -1,5 +1,5 @@
 package main
-
+//https://docs.sqlc.dev/en/stable/tutorials/getting-started-mysql.html
 import (
 	"context"
 	"database/sql"
